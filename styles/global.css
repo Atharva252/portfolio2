@@ -1,0 +1,6 @@
+.bg-stars {
+  background: url('/images/stars.svg'); /* Optional: add your stars.svg */
+  background-size: cover;
+  opacity: 0.15;
+  mix-blend-mode: screen;
+}
